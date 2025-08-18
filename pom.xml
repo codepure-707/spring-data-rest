@@ -28,7 +28,7 @@
 		<project.type>multi</project.type>
 		<dist.id>spring-data-rest</dist.id>
 
-		<springdata.commons>3.5.0-SNAPSHOT</springdata.commons>
+		<springdata.commons>3.5.3</springdata.commons>
 		<springdata.jpa>3.5.0-SNAPSHOT</springdata.jpa>
 		<springdata.mongodb>4.5.0-SNAPSHOT</springdata.mongodb>
 		<springdata.keyvalue>3.5.0-SNAPSHOT</springdata.keyvalue>
